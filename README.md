@@ -211,4 +211,4 @@ PWGen is offered as a full free version with all features and updates included, 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-07 22:38:56 UTC
+**Last updated:** 2026-10-08 02:27:37 UTC
